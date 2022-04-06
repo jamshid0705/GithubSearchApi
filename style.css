@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Montserrat&family=Mukta:wght@700&family=Poppins:wght@700&family=Roboto:wght@300;500&display=swap');
+body{
+  margin: 0;
+  padding:0;
+  font-family:Mukta ;
+}
+.Magicgit{
+  width: 100vw;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  color: white;
+  background-color: blue;
+  margin-bottom: 29px;
+}
+.main1{
+  width: 85vw;
+  margin: auto;
+  padding: 20px;
+  position: relative;
+ border: 2px solid rgb(219, 210, 210);
+ border-left: 0;
+}
+.input{
+  width: 100%;
+  height: 35px;
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px 1px rgb(215, 198, 198);
+}
+::placeholder{
+  font-size: 15px;
+  color: black;
+}
+.main2{
+  width:85vw ;
+  height: 60vh;
+  border: 2px solid rgb(219, 210, 210);
+  border-left: 0;
+  margin: auto;
+  padding: 20px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.my2 {
+  display: grid;
+  grid-template-columns: 1fr;
+  /* gap: 10px; */
+  
+}
+.img{
+  width: 20vw;
+  height: 52vh;
+  border-radius: 5px;
+}
+img{
+  height: 100%;
+  width: 100%;
+  border-radius: 20px;
+}
+.img1{
+  display: inline-block;
+  position: relative;
+  color: white;
+  width: 20vw;
+  height: 5vh;
+  text-decoration: none;
+  margin-top: 20px;
+  font-size: 20px;
+  text-align: center;
+  border-radius: 5px;
+  background-color: blue;
+}
+.my1{
+  width: 20vw;
+  height: 50vh;
+  /* float: left; */
+}
+.h4{
+  padding: 10px;
+  width: 120px;
+  text-align: center;
+  float: left;
+  margin: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+  border-radius: 10px;
+  color: white;
+}
+.a1{
+  background-color: blue;
+}
+.a2{
+  background-color: grey;
+}
+.a3{
+  background-color:green;
+}
+.a4{
+  background-color:rgb(0, 187, 255);
+}
+.qator2{
+  width: 64vw;
+  height: 43vh;
+  margin-top: -24px;
+  /* position: absolute;
+  left: 27.7vw;
+  top: 59.5vh; */
+}
+.h5{
+  font-size: 20px;
+  width: 95%;
+  padding: 19.5px;
+  border: 2px solid rgb(219, 210, 210);
+}
+.you{
+  width:85vw ;
+  height: 7vh;
+  padding: 20px;
+  display: flex;
+  gap: 40px;
+  font-size: 20px;
+  margin: auto;
+  border: 2px solid rgb(219, 210, 210);
+  border-left: 0;
+  align-items: center;
+  
+}
+.main3{
+  margin-top: 20px;
+}
+.h6{
+
+  width: 120px;
+  text-align: center;
+  border-radius: 10px;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
+.b1{
+  background-color: blue;
+  color: white;
+  
+}
+.b2{
+  color: white;
+  background-color: grey;
+}
+.b3{
+  color: white;
+  background-color: green;
+}
+.map{
+  color: blue;
+  
+
+}
+h3{
+  width: 25vw;
+}
