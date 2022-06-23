@@ -1,0 +1,22 @@
+{
+  "name": "lesson10githubapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamshid0705/project1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamshid0705/project1/issues"
+  },
+  "homepage": "https://github.com/jamshid0705/project1#readme",
+  "devDependencies": {
+    "parsel": "^0.3.0"
+  }
+}

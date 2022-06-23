@@ -6,7 +6,7 @@ const men1=document.querySelector('.men1')
 
 
 const main=function(obj){
-  my.append(men)
+  my.append(men);
   men.innerHTML=`
   <div class="main2">
       <div class="my1">
